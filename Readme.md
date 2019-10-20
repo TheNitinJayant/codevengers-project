@@ -1,4 +1,4 @@
-# Image Denosing
+# Image Denoising
 
 Image Denosing is the process of removing the random noise from the image such as random variation of brightness or color information in images, and is usually an aspect of electronic noise. Reserving the details of an image and removing the random noise as far as possible is the goal of image denoising approaches
 
